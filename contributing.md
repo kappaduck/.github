@@ -12,12 +12,6 @@ You won't be yelled at for giving it your best effort. The worst that can happen
 that you'll be politely asked to change something. We appreciate any sort of
 contributions and don't want a wall of rules to get in the way of that.
 
-## Before you contribute
-
-Before you start contributing, please take a moment to read our policies:
-
-- [Branch policies]
-
 ## How can I contribute?
 
 There are many ways you can contribute. Here are a few things you can do to help out:
